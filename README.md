@@ -1,4 +1,4 @@
-![My Project Logo](https://github.com/viaConBodhi/jira_migration/blob/main/images/migrate.png)
+![My Project Logo](https://github.com/viaConBodhi/Jira-Migration-Public/blob/main/images/migrate.png)
 
 # Jira Service Management Migration Project
 
